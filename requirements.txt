@@ -1,0 +1,5 @@
+opencv-python~=4.7.0.72
+opencv-python-headless
+dlib~=19.24.1
+cmake
+numpy~=1.24.2
